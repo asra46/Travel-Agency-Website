@@ -143,10 +143,10 @@ Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut, atque. Dolorum, p
 
     <div className="col-12 col-lg-6 p-5">
       <div className="image-stack">
-        <img src={img1} className="img img-1" />
-        <img src={img2} className="img img-2" />
-        <img src={img3} className="img img-3" />
-        <img src={img4} className="img img-4" />
+        <img src={img1} className="img img-1"  alt="" />
+        <img src={img2} className="img img-2"  alt="" />
+        <img src={img3} className="img img-3"  alt="" />
+        <img src={img4} className="img img-4"  alt="" />
       </div>
     </div>
 
